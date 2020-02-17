@@ -43,6 +43,7 @@ public class Fatih {
                     property.store(fios, "new ones");
                 } else {
                     property.setProperty(tempResponse, response);
+                    property.store(fios, "new ones");
                     System.out.println(property.getProperty(response));
                     tempResponse = property.getProperty(response);
                     response = scanner.nextLine();
