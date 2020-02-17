@@ -37,9 +37,10 @@ public class Fatih {
                 flag=false;
             } else {
                 if (property.getProperty(response)==null){
-                    System.out.println("what is the answer of this?");
+                    System.out.println("I don't know,why don't you tell me?");
                     response=scanner.nextLine();
                     property.setProperty(tempScanner, response);
+                    tempScanner = response;
                     property.store(fios, "new ones");
                 } else {
                     property.setProperty(tempResponse, response);

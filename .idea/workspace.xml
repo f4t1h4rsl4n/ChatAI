@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea15a89-a308-4917-919c-abddf02f8c7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/data.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/smart/Fatih.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smart/Fatih.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,38 +84,38 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1581912155980" />
-    <state width="2517" height="233" key="GridCell.Tab.0.bottom" timestamp="1581961624142">
+    <state width="2517" height="233" key="GridCell.Tab.0.bottom" timestamp="1581970241935">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1581961624142" />
-    <state width="2517" height="233" key="GridCell.Tab.0.center" timestamp="1581961624141">
+    <state width="2517" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1581970241935" />
+    <state width="2517" height="233" key="GridCell.Tab.0.center" timestamp="1581970241935">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1581961624141" />
-    <state width="2517" height="233" key="GridCell.Tab.0.left" timestamp="1581961624141">
+    <state width="2517" height="233" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1581970241935" />
+    <state width="2517" height="233" key="GridCell.Tab.0.left" timestamp="1581970241934">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1581961624141" />
-    <state width="2517" height="233" key="GridCell.Tab.0.right" timestamp="1581961624142">
+    <state width="2517" height="233" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1581970241934" />
+    <state width="2517" height="233" key="GridCell.Tab.0.right" timestamp="1581970241935">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1581961624142" />
-    <state width="2517" height="347" key="GridCell.Tab.1.bottom" timestamp="1581961614064">
+    <state width="2517" height="233" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1581970241935" />
+    <state width="2517" height="347" key="GridCell.Tab.1.bottom" timestamp="1581966769805">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="347" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1581961614064" />
-    <state width="2517" height="347" key="GridCell.Tab.1.center" timestamp="1581961614064">
+    <state width="2517" height="347" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1581966769805" />
+    <state width="2517" height="347" key="GridCell.Tab.1.center" timestamp="1581966769805">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="347" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1581961614064" />
-    <state width="2517" height="347" key="GridCell.Tab.1.left" timestamp="1581961614064">
+    <state width="2517" height="347" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1581966769805" />
+    <state width="2517" height="347" key="GridCell.Tab.1.left" timestamp="1581966769805">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="347" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1581961614064" />
-    <state width="2517" height="347" key="GridCell.Tab.1.right" timestamp="1581961614064">
+    <state width="2517" height="347" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1581966769805" />
+    <state width="2517" height="347" key="GridCell.Tab.1.right" timestamp="1581966769805">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2517" height="347" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1581961614064" />
+    <state width="2517" height="347" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1581966769805" />
     <state x="781" y="162" key="SettingsEditor" timestamp="1581926875815">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -122,75 +124,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="981" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1581960332306" />
-    <state x="662" y="140" key="new project wizard" timestamp="1581910923394">
+    <state x="662" y="140" key="new project wizard" timestamp="1581967204335">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="662" y="140" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1581910923394" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/smart/Fatih.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="662" y="140" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1581967204335" />
   </component>
 </project>
