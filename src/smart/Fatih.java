@@ -34,19 +34,20 @@ public class Fatih {
         while (flag){
             if (response.equals("bye")){
                 System.out.println("Bye, I will miss you");
-                System.exit(0);
+                flag=false;
             } else {
-                property.store(fios, "new ones");
-                if (response==null){
+                if (property.getProperty(response)==null){
+                    System.out.println("what is the answer of this?");
                     response=scanner.nextLine();
                     property.setProperty(tempScanner, response);
-                    continue;
+                    property.store(fios, "new ones");
+                } else {
+                    property.setProperty(tempResponse, response);
+                    System.out.println(property.getProperty(response));
+                    tempResponse = property.getProperty(response);
+                    response = scanner.nextLine();
+                    tempScanner = response;
                 }
-                property.setProperty(tempResponse, response);
-                System.out.println(property.getProperty(response));
-                tempResponse = property.getProperty(response);
-                response=scanner.nextLine();
-                tempScanner=response;
             }
         }
     }
